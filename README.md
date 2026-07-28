@@ -2,8 +2,6 @@
 
 My path through at [42 Porto](https://www.42porto.com/).
 
-**Current rank:** 3
-
 Each project has its own repository;
 ---
 
@@ -33,7 +31,7 @@ Complexity analysis, graph traversal and sorting strategies, plus a full immersi
 | **push_swap** | Sorting a stack using only a restricted set of operations, minimising the number of moves | 84 |
 | **A-Maze-Ing** | Procedural generation of perfect mazes (exactly one path between any two cells, no loops) via randomised DFS with recursive backtracking; walls encoded as hexadecimal bitmasks for downstream projects | 123 |
 
-### 🐍 Python piscine — BlackHole
+### 🐍 Python piscine
 
 Eleven modules covering fundamentals, object-oriented programming, decorators and the data ecosystem (NumPy, pandas, matplotlib). **Average: 99/100.**
 
