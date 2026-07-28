@@ -24,7 +24,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 |---|---|---|
 | **Exam Rank 02** | On-site, time-limited, auto-graded | 100 |
 | [**push_swap**](M2/push_swap/README.md) | Sorting a stack with a restricted operation set, minimising moves | 84 |
-| **A-Maze-Ing** | Perfect-maze generation via randomised DFS, hex-encoded walls | 123 |
+| [**A-Maze-Ing**](M2/A-Maze-ing//README.md) | Perfect-maze generation via randomised DFS, hex-encoded walls | 123 |
 
 [**🐍 Python piscine**](M2/python_modules/) — eleven modules: fundamentals, OOP, decorators, NumPy/pandas/matplotlib.
 
