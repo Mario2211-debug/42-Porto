@@ -1,0 +1,15 @@
+# virtual environment
+.venv/
+
+# python artifacts
+__pycache__/
+*.pyc
+.mypy_cache/
+
+# build artifacts (the built mazegen-* package is kept at the repo root)
+build/
+dist/
+*.egg-info/
+
+# generated maze output
+maze.txt

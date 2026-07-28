@@ -1,0 +1,11 @@
+# a_maze_ing - default maze configuration
+WIDTH=35
+HEIGHT=25
+ENTRY=0,0
+EXIT=34,24
+OUTPUT_FILE=maze.txt
+PERFECT=True
+# DISPLAY selects the view: mlx (graphical window) or terminal
+DISPLAY=mlx
+# SEED makes the maze reproducible. Remove or comment it for a random maze.
+# SEED=42

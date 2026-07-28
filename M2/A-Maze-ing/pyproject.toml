@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+description = "Reusable recursive-backtracker maze generator."
+requires-python = ">=3.10"
+keywords = ["maze", "generator", "recursive-backtracker"]
+
+# The reusable module is a single file: mazegen.py
+[tool.setuptools]
+py-modules = ["mazegen"]
+
+# --- tooling configuration (ignored by the package build) ---------------
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.mypy]
+exclude = '(\.venv|build|dist|tests)/'
+
+[[tool.mypy.overrides]]
+module = "mlx.*"
+ignore_missing_imports = true
