@@ -1,44 +1,41 @@
-# 42 Porto — Common Core (42Next)
+# 42 Porto — Common Core
 
-My path through [42 Porto](https://www.42porto.com/), a peer-to-peer programming school with no teachers and no classes, where projects are graded by fellow students.
+My path through at [42 Porto](https://www.42porto.com/).
 
-**Current rank:** 3 · **Python piscine (BlackHole):** completed, 99/100 average
+**Current rank:** 3
 
-The common core is organised into 7 thematic pillars. Each project has its own repository; descriptions are written for people outside the school.
-
+Each project has its own repository;
 ---
 
-## 🧠 C — Memory Management
+## 🧠 Milestone 0 — Foundations
 
-Building C fundamentals from the ground up: manual memory management, string manipulation, writing your own libraries.
+Building C from the ground up: manual memory management, string manipulation, writing your own libraries.
 
 | Project | Description | Grade |
 |---|---|---|
 | **Libft** | Reimplementation of parts of the C standard library — memory, strings and linked lists — without using libc itself | 100 |
-| **ft_printf** | Reimplementation of `printf` with variadic arguments and runtime parsing of format conversions | 100 |
-| **get_next_line** | Reading a file line by line using a static buffer, regardless of line or file size | 100 |
 
-## 🔺 Algorithms
-
-Complexity analysis, graph traversal and sorting strategies.
+## 🛠️ Milestone 1 — Tools and systems
 
 | Project | Description | Grade |
 |---|---|---|
+| **ft_printf** | Reimplementation of `printf` with variadic arguments and runtime parsing of format conversions | 100 |
+| **get_next_line** | Reading a file line by line using a static buffer, regardless of line or file size | 100 |
+| **Born2beroot** | Headless Debian server: encrypted LVM, hardened SSH, UFW firewall, password policy and a monitoring script | 125 |
+
+## 🔺 Milestone 2 — Algorithms and Python
+
+Complexity analysis, graph traversal and sorting strategies, plus a full immersion in Python.
+
+| Project | Description | Grade |
+|---|---|---|
+| **Exam Rank 02** | On-site exam, no internet, time-limited, automatically graded | 100 |
 | **push_swap** | Sorting a stack using only a restricted set of operations, minimising the number of moves | 84 |
 | **A-Maze-Ing** | Procedural generation of perfect mazes (exactly one path between any two cells, no loops) via randomised DFS with recursive backtracking; walls encoded as hexadecimal bitmasks for downstream projects | 123 |
 
-## ⚙️ Systems & Networks
+### 🐍 Python piscine — BlackHole
 
-Concurrency, synchronisation and network protocols.
-
-| Project | Description | Grade |
-|---|---|---|
-| **Born2beroot** | Headless Debian server: encrypted LVM, hardened SSH, UFW firewall, password policy and a monitoring script | 125 |
-| **Codexion** | Dining-philosophers variant set in a co-working space: threads compete for scarce USB dongles under a resource hierarchy, with FIFO or earliest-deadline-first scheduling, dongle cooldowns and 10 ms-accurate burnout detection | — |
-
-## 🐍 Python — Object-Oriented Programming
-
-An 11-module piscine covering fundamentals, OOP, decorators and the data ecosystem (NumPy, pandas, matplotlib).
+Eleven modules covering fundamentals, object-oriented programming, decorators and the data ecosystem (NumPy, pandas, matplotlib). **Average: 99/100.**
 
 | Module | Grade |
 |---|---|
@@ -46,36 +43,23 @@ An 11-module piscine covering fundamentals, OOP, decorators and the data ecosyst
 | Module 01 | 93 |
 | Modules 02 – 10 | 100 |
 
-**Related projects**
+## ⚙️ Milestone 3 — Concurrency and communication
 
-| Project | Description |
-|---|---|
-| **Fly-In** | Multi-drone pathfinding in shared airspace: space-time A\* with collision resolution |
-| **treino_python_42** | Training CLI for the Python exams (ranks 02–06), with a local examshell and grademe — ~76 exercises |
+Threads, synchronisation, scheduling and inter-process communication.
 
-## 🐳 DevOps & Infrastructure
+| Project | Description | Grade |
+|---|---|---|
+| **Exam Rank 03** | On-site exam, time-limited | 100 |
+| **Fly-In** | Multi-drone pathfinding in shared airspace: space-time A\* with collision resolution | — |
+| **Codexion** | Dining-philosophers variant set in a co-working space: threads compete for scarce USB dongles under a resource hierarchy, with FIFO or earliest-deadline-first scheduling, dongle cooldowns and 10 ms-accurate burnout detection | — |
+| **call-me-maybe** | *(to fill in)* | — |
 
-*In progress.*
+## 🚧 Ahead
 
-## 🌐 Modern Web
-
-*In progress.*
-
-## 🤖 Artificial Intelligence — LLMs and RAG
-
-*In progress.*
+DevOps and infrastructure, modern web, and the newly added artificial intelligence track (LLMs and RAG).
 
 ---
 
-## Exams
+## 📫 Contact
 
-| Exam | Grade |
-|---|---|
-| Exam Rank 02 | 100 |
-| Exam Rank 03 | 100 |
-
----
-
-## Contact
-
-[https://www.linkedin.com/in/mario-afonso-018107141/](#) · [marioafonso1997@gmail.com](#)
+[LinkedIn](https://www.linkedin.com/in/mario-afonso-018107141/) · [marioafonso1997@gmail.com](mailto:marioafonso1997@gmail.com)
