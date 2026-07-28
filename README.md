@@ -50,7 +50,7 @@ Threads, synchronisation, scheduling and inter-process communication.
 | **Exam Rank 03** | On-site exam, time-limited | 100 |
 | **Fly-In** | Multi-drone pathfinding in shared airspace: space-time A\* with collision resolution | — |
 | **Codexion** | Dining-philosophers variant set in a co-working space: threads compete for scarce USB dongles under a resource hierarchy, with FIFO or earliest-deadline-first scheduling, dongle cooldowns and 10 ms-accurate burnout detection | — |
-| **call-me-maybe** | *(to fill in)* | — |
+| **call-me-maybe** |Function calling built from scratch: turns natural-language prompts into structured JSON calls against a function schema, using constrained decoding to force a small local model (Qwen3-0.6B) into valid output — implemented without transformers, torch or dspy | — |
 
 ## 🚧 Ahead
 
