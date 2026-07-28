@@ -8,22 +8,22 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 
 | Project | | Grade |
 |---|---|---|
-| **Libft** | Reimplementing parts of the C standard library from scratch | 100 |
+| [**Libft**](./M0/libft) | Reimplementing parts of the C standard library from scratch | 100 |
 
 ### 🛠️ Milestone 1
 
 | Project | | Grade |
 |---|---|---|
-| **ft_printf** | Variadic reimplementation of `printf` | 100 |
-| **get_next_line** | Line-by-line file reading with a static buffer | 100 |
-| **Born2beroot** | Hardened headless Debian — encrypted LVM, SSH, UFW, monitoring | 125 |
+| [**ft_printf**](.M1/ft_printf/) | Variadic reimplementation of `printf` | 100 |
+| [**get_next_line**](.M1/gnl/) | Line-by-line file reading with a static buffer | 100 |
+| [**Born2beroot**](.M1/Born2beRoot/) | Hardened headless Debian — encrypted LVM, SSH, UFW, monitoring | 125 |
 
 ### 🔺 Milestone 2
 
 | Project | | Grade |
 |---|---|---|
 | **Exam Rank 02** | On-site, time-limited, auto-graded | 100 |
-| **push_swap** | Sorting a stack with a restricted operation set, minimising moves | 84 |
+| [**push_swap**](M2/push_swap/) | Sorting a stack with a restricted operation set, minimising moves | 84 |
 | **A-Maze-Ing** | Perfect-maze generation via randomised DFS, hex-encoded walls | 123 |
 
 **🐍 Python piscine** — eleven modules: fundamentals, OOP, decorators, NumPy/pandas/matplotlib.
