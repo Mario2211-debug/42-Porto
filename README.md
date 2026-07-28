@@ -41,7 +41,7 @@ Eleven modules covering fundamentals, object-oriented programming, decorators an
 | Module 01 | 93 |
 | Modules 02 – 10 | 100 |
 
-## ⚙️ Milestone 3 — Concurrency and communication
+## ⚙️ Milestone 3 — Concurrency, Pathfinding and LLM Finetuning
 
 Threads, synchronisation, scheduling and inter-process communication.
 
