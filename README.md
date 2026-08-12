@@ -8,25 +8,25 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 
 | Project | | Grade |
 |---|---|---|
-| [**Libft**](./M0/libft) | Reimplementing parts of the C standard library from scratch | 100 |
+| [**Libft**](https://github.com/Mario2211-debug/libft) | Reimplementing parts of the C standard library from scratch | 100 |
 
 ### 🛠️ Milestone 1
 
 | Project | | Grade |
 |---|---|---|
-| [**ft_printf**](./M1/ft_printf/README.md) | Variadic reimplementation of `printf` | 100 |
-| [**get_next_line**](./M1/gnl/README.md) | Line-by-line file reading with a static buffer | 100 |
-| [**Born2beroot**](./M1/Born2beRoot) | Hardened headless Debian — encrypted LVM, SSH, UFW, monitoring | 125 |
+| [**ft_printf**](https://github.com/Mario2211-debug/ft_printf) | Variadic reimplementation of `printf` | 100 |
+| [**get_next_line**](https://github.com/Mario2211-debug/gnl) | Line-by-line file reading with a static buffer | 100 |
+| [**Born2beroot**](https://github.com/Mario2211-debug/Born2beRoot) | Hardened headless Debian — encrypted LVM, SSH, UFW, monitoring | 125 |
 
 ### 🔺 Milestone 2
 
 | Project | | Grade |
 |---|---|---|
 | **Exam Rank 02** | On-site, time-limited, auto-graded | 100 |
-| [**push_swap**](/M2/push_swap/README.md) | Sorting a stack with a restricted operation set, minimising moves | 84 |
-| [**A-Maze-Ing**](M2/A-Maze-ing//README.md) | Perfect-maze generation via randomised DFS, hex-encoded walls | 123 |
+| [**push_swap**](https://github.com/Mario2211-debug/push_swap) | Sorting a stack with a restricted operation set, minimising moves | 84 |
+| [**A-Maze-Ing**](https://github.com/Mario2211-debug/A-Maze-ing) | Perfect-maze generation via randomised DFS, hex-encoded walls | 123 |
 
-[**🐍 Python piscine**](M2/python_modules/) — eleven modules: fundamentals, OOP, decorators, NumPy/pandas/matplotlib.
+[**🐍 Python piscine**](https://github.com/Mario2211-debug/python_modules) — eleven modules: fundamentals, OOP, decorators, NumPy/pandas/matplotlib.
 
 | Module | Grade |
 |---|---|
@@ -38,10 +38,10 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 
 | Project | | Grade |
 |---|---|---|
-| [**Exam Rank 03**] | On-site, time-limited | 100 |
-| [**Fly-In**](/M3/Fly-In/README.md) | Multi-drone pathfinding with space-time A\* | 125 |
-| [**Codexion**](/M3/Codexion/README.md) | Dining philosophers under a resource hierarchy, with FIFO/EDF scheduling | 100 |
-| [**call-me-maybe**](/M3/Call-me-Maybe/README.md)  | Function calling from scratch — constrained decoding into valid JSON, no ML libraries | 115 |
+| **Exam Rank 03** | On-site, time-limited | 100 |
+| [**Fly-In**](https://github.com/Mario2211-debug/Fly-in) | Multi-drone pathfinding with space-time A\* | 125 |
+| [**Codexion**](https://github.com/Mario2211-debug/Codexion) | Dining philosophers under a resource hierarchy, with FIFO/EDF scheduling | 100 |
+| [**call-me-maybe**](https://github.com/Mario2211-debug/Call-me-Maybe)  | Function calling from scratch — constrained decoding into valid JSON, no ML libraries | 115 |
 
 
 ### ⚙️ Milestone 4
