@@ -1,0 +1,9 @@
+# Missing end_hub definition
+nb_drones: 3
+
+start_hub: start 0 0 [color=green]
+hub: zone_a 1 0 [color=blue]
+hub: zone_b 2 0 [color=blue]
+
+connection: start-zone_a
+connection: zone_a-zone_b
