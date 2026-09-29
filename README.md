@@ -48,14 +48,27 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 
 | Project | | Grade |
 |---|---|---|
-| **Exam Rank 04** | On-site, time-limited | - |
-| **Net-Practice** |NetPractice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals. Through interactive problem-solving, you'll master TCP/IP addressing, subnet masks, default gateways, routing, and OSI layers by troubleshooting and configuring non-functioning network diagrams. | - |
-| **Rag - Against the Machinne** | Build a Retrieval-Augmented Generation system that answers questions about codebases by retrieving relevant information and generating evidence-based responses, implementing intelligent chunking, efficient retrieval (TF-IDF/BM25) | - |
-| **Pacman** | Recreate the famous arcade game Pac-Man with a modern Python codebase, a clean project structure, and a deployable build. | - |
+| [**Exam Rank 04**] | On-site, time-limited | 100 |
+| **Net-Practice** |NetPractice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals. Through interactive problem-solving, you'll master TCP/IP addressing, subnet masks, default gateways, routing, and OSI layers by troubleshooting and configuring non-functioning network diagrams. | 100 |
+| [**Rag - Against the Machinne**](https://github.com/Mario2211-debug/RAG) | Build a Retrieval-Augmented Generation system that answers questions about codebases by retrieving relevant information and generating evidence-based responses, implementing intelligent chunking, efficient retrieval (TF-IDF/BM25) | 100 |
+| [**Pacman**](https://github.com/Mario2211-debug/Pacman) | Recreate the famous arcade game Pac-Man with a modern Python codebase, a clean project structure, and a deployable build. | 100 |
+
+
+### ⚙️ Milestone 5
+
+| Project | | Grade |
+|---|---|---|
+| **Exam Rank 05** | On-site, time-limited | - |
+| [**TAP - The Answer Protocol**](https://github.com/Mario2211-debug/TAP-The-Answer-Protocol-) | Create a multiplayer text adventure that unites learners in a shared virtual world with dynamic item management. Working in pairs, build a robust TCP server implementing RFC 42TAP (The Answer Protocol) using systems programming languages (C, C++, Rust, Go, or Zig — Python is strictly forbidden for this activity), develop both command-line and graphical clients, and implement real-time networking features like chat, presence events, group coordination, and a sophisticated item economy. | - |
+| [**Inception**](https://github.com/Mario2211-debug/Inception) | In this project, I set it up a complete infrastructure using Docker Compose, creating and managing multiple containerized services including NGINX with SSL/TLS, WordPress with php-fpm, and MariaDB. I gain hands-on experience with containerization, networking, volume management, and secure web service deployment within your own personal virtual machine. | - |
+| [**Agent Smith**](https://github.com/Mario2211-debug/Agent-Smith) | This is a project where you build an autonomous AI agent capable of reasoning, generating, executing, and iterating on code to solve programming challenges in a secure, sandboxed environment. | - |
+| [**tree_nity**](https://github.com/Mario2211-debug/tree_nity)| Build a message queue system with topics, producers, and consumers, handling IPC, concurrency, and efficient data structures for asynchronous, event-driven communication. | - |
+
 
 ### 🚧 Ahead
 
-DevOps, modern web, and the rest of the AI track.
+DevOps, modern web, and new fields to explore.
+
 
 ---
 
