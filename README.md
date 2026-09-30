@@ -10,7 +10,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 |---|---|---|
 | [**Libft**](https://github.com/Mario2211-debug/libft) | Reimplementing parts of the C standard library from scratch | 100 |
 
-### 🛠️ Milestone 1
+### 🧠 Milestone 1
 
 | Project | | Grade |
 |---|---|---|
@@ -18,7 +18,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 | [**get_next_line**](https://github.com/Mario2211-debug/gnl) | Line-by-line file reading with a static buffer | 100 |
 | [**Born2beroot**](https://github.com/Mario2211-debug/Born2beRoot) | Hardened headless Debian — encrypted LVM, SSH, UFW, monitoring | 125 |
 
-### 🔺 Milestone 2
+### 🥊 Milestone 2
 
 | Project | | Grade |
 |---|---|---|
@@ -34,7 +34,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 | 01 | 93 |
 | 02 – 10 | 100 |
 
-### ⚙️ Milestone 3
+### ⚒️ Milestone 3
 
 | Project | | Grade |
 |---|---|---|
@@ -54,7 +54,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 | [**Pacman**](https://github.com/Mario2211-debug/Pacman) | Recreate the famous arcade game Pac-Man with a modern Python codebase, a clean project structure, and a deployable build. | 100 |
 
 
-### ⚙️ Milestone 5
+### 🚀 Milestone 5
 
 | Project | | Grade |
 |---|---|---|
@@ -65,7 +65,7 @@ My path through [42 Porto](https://www.42porto.com/). Each project has its own r
 | [**tree_nity**](https://github.com/Mario2211-debug/tree_nity)| Build a message queue system with topics, producers, and consumers, handling IPC, concurrency, and efficient data structures for asynchronous, event-driven communication. | - |
 
 
-### 🚧 Ahead
+### 🚧 🐦‍🔥 Ahead
 
 DevOps, modern web, and new fields to explore.
 
